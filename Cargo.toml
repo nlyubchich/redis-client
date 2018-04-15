@@ -1,0 +1,7 @@
+[package]
+name = "redis-client"
+version = "0.1.0"
+authors = ["Nikita Lyubchich <cybran111@gmail.com>"]
+
+[dependencies]
+clippy = { version = "*", optional = true }
